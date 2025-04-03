@@ -1,0 +1,14 @@
+{
+  "name": "com.plugins.spine-unity-urp-shaders",
+  "version": "4.2.36",
+  "displayName": "com.plugins.spine-unity-urp-shaders",
+  "description": "Spine Universal RP Shaders.",
+  "author": {
+    "name": "ktgame",
+    "email": "khanhquang0912qh@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
