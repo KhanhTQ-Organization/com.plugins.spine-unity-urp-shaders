@@ -8,7 +8,7 @@
 #include "Packages/com.esotericsoftware.spine.lwrp-shaders/Shaders/CGIncludes/SpineCoreShaders/Spine-Common.cginc"
 #elif defined(USE_URP)
 #include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/Core.hlsl"
-#include "Packages/com.unimob.plugins.spine-unity-urp-shaders/Shaders/Include/SpineCoreShaders/Spine-Common.cginc"
+#include "Packages/com.plugins.spine-unity-urp-shaders/Shaders/Include/SpineCoreShaders/Spine-Common.cginc"
 #else
 #include "UnityCG.cginc"
 #include "../../CGIncludes/Spine-Common.cginc"
