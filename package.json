@@ -10,5 +10,8 @@
   "repository": {
     "type": "git",
     "url": ""
+  },
+  "publishConfig": {
+    "registry": "http://3.25.208.95:4873"
   }
 }
